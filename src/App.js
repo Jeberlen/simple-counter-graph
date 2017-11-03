@@ -39,7 +39,7 @@ class App extends Component {
           <div className="container">
               <header className="jumbotron">
                   <div className="row">
-                      <div className="col-xs-12 col-xs-offset-3 text-center">
+                      <div className="col-xs-12 text-center">
                           <img src={logo} alt="LOGO" style={{height: 200, width: 200}}/>
                           <p className="lead">Welcome to the ranker that will change nothing for no one.</p>
                       </div>
